@@ -1,0 +1,22 @@
+/*
+#f7d1ba Light pink color
+#d49a89 Darker pink color
+#557571 Blue gray dark color
+#f4f4f4 Light blue color
+*/
+body {
+  background-color: #f7d1ba;
+  color: #557571;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  color: #f4f4f4;
+  width: 30%;
+}
+
+h1, h3 {
+  color: black;
+}
